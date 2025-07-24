@@ -75,12 +75,12 @@ education:
     date_end: 2022-12-31
     summary: |
       GPA: 3.55/4.0
-  - area: Visiting Student (Erasmus+ Scholar)
+  - area: Visiting Student 
     institution: University of Birmingham
     date_start: 2020-01-01
-    date_end: 2020-06-31
+    date_end: 2020-06-30
     summary: |
-      First Class Honors
+      First Class Honors. Erasmus+ Scholarship.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
