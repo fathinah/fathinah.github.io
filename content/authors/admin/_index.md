@@ -183,4 +183,4 @@ awards:
 
 I am a Computer Science Lecturer at Higher Colleges of Technology, Abu Dhabi, United Arab Emirates. I was a graduate student researcher at Music X Lab, MBZUAI advised by Dr. Gus Xia. 
 
-Human AI Intercation, Machine Learning, and IoT are my primary interest. My prior works revolves around multimodal generative AI mainly in music. Currently, I am working on "RL for tennis ball collection robot" and collaborated on "Coverage Estimation for CubeSat Earth and Lunar Imagery". I also co-supervise undergrad thesis on "bias and fairness of quantized LLMs". I use AI to solve problems that are close to me to bring direct impact for my community. 
+My prior research revolves around multimodal generative AI mainly in music. Currently, I am working on "RL for tennis ball collection robot" and collaborated on "Coverage Estimation for CubeSat Earth and Lunar Imagery". I also co-supervise undergrad thesis on "bias and fairness of quantized LLMs". I use AI to solve problems that are close to me to bring direct impact for my community. 
