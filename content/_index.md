@@ -31,6 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: news
     content:
       title: 'News'
       subtitle: ''
@@ -73,7 +74,7 @@ sections:
             </div>
             <div class="flex">
               <strong class="w-24">2020</strong>
-              <span>🌍 Awarded Erasmus+ Scholarship</span>
+              <span>🌍 Awarded Erasmus+ Scholarship, Birmingham, UK</span>
             </div>
           </div>
       # text: |-
@@ -129,7 +130,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Projects
       filters:
         folders:
           - publication
