@@ -30,17 +30,60 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 News'
-      subtitle: ''
-      text: |-
-        **June 2025**	📄 Accepted paper in ISMIR 2025, Daejeon, South Korea
-        **May 2025**	🎓 Accepted as Lecturer in Higher Colleges of Technology (oldest uni in UAE)
-        **May 2025**	🎉 Graduated from MS Machine Learning, MBZUAI
+  # - block: markdown
+  #   content:
+  #     title: 'News'
+  #     subtitle: ''
+  #     text: |-
+  #       **June 2025**	📄 Accepted paper in ISMIR 2025, Daejeon, South Korea
+  #       **May 2025**	🎓 Accepted as Lecturer in Higher Colleges of Technology (oldest uni in UAE)
+  #       **May 2025**	🎉 Graduated from MS Machine Learning, MBZUAI
 
+  #   design:
+  #     columns: '1'
+
+  - block: html
+    content: |-
+      <div class="space-y-2 text-sm">
+        <!-- 2025 entries -->
+        <div class="flex">
+          <strong class="w-24">June 2025</strong>
+          <span>📄 Accepted paper in ISMIR 2025, Daejeon, South Korea</span>
+        </div>
+        <div class="flex">
+          <strong class="w-24">May 2025</strong>
+          <span>🎓 Accepted as Lecturer at Higher Colleges of Technology (oldest uni in UAE)</span>
+        </div>
+        <div class="flex">
+          <strong class="w-24">May 2025</strong>
+          <span>🎉 Graduated from MS in Machine Learning, MBZUAI</span>
+        </div>
+
+        <!-- 2023–2020 entries -->
+        <div class="flex">
+          <strong class="w-24">2023</strong>
+          <span>🎓 Awarded full scholarship for MS in Machine Learning at MBZUAI</span>
+        </div>
+        <div class="flex">
+          <strong class="w-24">2022</strong>
+          <span>🚀 Built first startup “Reviewein” and led a team of 10+ members</span>
+        </div>
+        <div class="flex">
+          <strong class="w-24">2022</strong>
+          <span>💡 Awarded Stanford Innovation Fellowship</span>
+        </div>
+        <div class="flex">
+          <strong class="w-24">2021</strong>
+          <span>🏅 Awarded “Most Outstanding Student,” School of Computer Science, University of Indonesia</span>
+        </div>
+        <div class="flex">
+          <strong class="w-24">2020</strong>
+          <span>🌍 Awarded Erasmus+ Scholarship</span>
+        </div>
+      </div>
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
